@@ -17,17 +17,17 @@
             <nav>
                 <ul>
                     <li>
-                        <a href="http://127.0.0.1:8000/products">
+                        <a href="/products">
                             Products
                         </a>
                     </li>
                     <li>
-                        <a href="http://127.0.0.1:8000/payment">
+                        <a href="/payment">
                             Payment
                         </a>
                     </li>
                     <li>
-                        <a href="http://127.0.0.1:8000/aboutus">
+                        <a href="/aboutus">
                             About Us
                         </a>
                     </li>
