@@ -24,3 +24,7 @@ Route::get('/products', function () {
 Route::get('/aboutus', function () {
     return view('aboutus');
 });
+
+Route::get('/payment', function () {
+    return view('payment');
+});
