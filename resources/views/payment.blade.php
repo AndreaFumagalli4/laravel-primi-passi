@@ -9,7 +9,7 @@
 <body>
     <main>
         <h2>
-            Payment
+            {{ 'Payment' }}
         </h2>
     </main>
 

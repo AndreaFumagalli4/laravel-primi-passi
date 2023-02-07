@@ -9,7 +9,7 @@
     <body>
         <main>
             <h2>
-                Products
+                {{ 'Products' }}
             </h2>
         </main>
     </body>

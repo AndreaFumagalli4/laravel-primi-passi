@@ -9,7 +9,7 @@
     <body>
         <main>
             <h2>
-                About Us
+                {{ 'About Us' }}
             </h2>
         </main>
     </body>

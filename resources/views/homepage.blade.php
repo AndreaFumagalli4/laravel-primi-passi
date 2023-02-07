@@ -12,8 +12,27 @@
                 Laravel primi passi
             </h1>
             <h2>
-                Homepage
+                {{ 'Homepage' }}
             </h2>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="http://127.0.0.1:8000/products">
+                            Products
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://127.0.0.1:8000/payment">
+                            Payment
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://127.0.0.1:8000/aboutus">
+                            About Us
+                        </a>
+                    </li>
+                </ul>
+            </nav>
         </header>
     </body>
 </html>
